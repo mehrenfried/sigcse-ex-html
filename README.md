@@ -5,14 +5,14 @@ specific to platform -- idea
 ## Level 2 Heading
 ### Level 3 Heading
 
-...
+'''
 Code Fencing
-...
+'''
 
 ## Core Contributors
 
--@mehrenfried
--@PatrickBM
--@jordanmccullough
--@crich1D
+*@mehrenfried
+*@PatrickBM
+*@jordanmccullough
+*@crich1D
 ## Purpose
