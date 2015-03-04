@@ -5,9 +5,9 @@ specific to platform -- idea
 ## Level 2 Heading
 ### Level 3 Heading
 
-'''
+```
 Code Fencing
-'''
+```
 - [ ] To Do 1
 - [x] To Do 2
 ## Core Contributors
