@@ -8,7 +8,7 @@ specific to platform -- idea
 '''
 Code Fencing
 '''
-- [] To Do 1
+- [ ] To Do 1
 - [x] To Do 2
 ## Core Contributors
 
