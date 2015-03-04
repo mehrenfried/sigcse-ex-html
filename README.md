@@ -11,8 +11,8 @@ Code Fencing
 
 ## Core Contributors
 
-*@mehrenfried
-*@PatrickBM
-*@jordanmccullough
-*@crich1D
+* @mehrenfried
+* @PatrickBM
+* @jordanmccullough
+* @crich1D
 ## Purpose
